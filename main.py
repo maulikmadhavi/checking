@@ -1,6 +1,9 @@
 import numpy as np
 
 def main():
+    """
+    This is the main part of the code
+    """
     pass
 
 
